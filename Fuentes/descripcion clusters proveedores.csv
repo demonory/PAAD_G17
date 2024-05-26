@@ -1,6 +1,0 @@
-﻿Cluster;Pedidos atendidos;Volumen portafolio;Volumen_category_portafolio;Minimo_pedido;Maximo_pedido;Prom_variacion_sipsa;Descripción
-0;34.31;4.53;1.31;141.13;649.87;0.0627%;Proveedores de portafolio reducido -  baja capacidad de entrega e historial medio de pedidos atendidos -  con diferencia media respecto al SIPSA
-1;57;2.5;2;574;28500;0.2107%;Proveedores de portafolio reducido -  amplia capacidad de entrega e historial alto de pedidos atendidos -  con diferencia media respecto al SIPSA
-2;88.87;21.2;2.38;83.5;11552.75;5.72%;Proveedores de amplio portafolio -  amplia capacidad de entrega e historial alto de pedidos atendidos -  pero mayor costo respecto al establecido al SIPSA
-3;8.5;1;1;7700;16912;0.00%;Proveedores de portafolio reducido -  amplia capacidad de entrega e historial bajo de pedidos atendidos -  sin diferencia significativa respecto al SIPSA
-4;1.2;1;1;744.56;744.56;0.00%;Proveedores de portafolio reducido -  baja capacidad de entrega e historial bajo de pedidos atendidos -  sin diferencia significativa respecto al SIPSA
