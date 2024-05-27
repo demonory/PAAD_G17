@@ -31,4 +31,5 @@ La implementación de un proyecto de Business Intelligence (BI) conlleva una ser
 El modelo relacional de Compras de Frubana contiene una estructura organizada de datos que representa las relaciones entre diferentes entidades dentro de la empresa, como proveedores, productos, Georreferencia, Tiempo y transacciones del negocio como compras, además fue complementado con información del DANE para ayudar a describir la locación y con los precios del SIPSA para poder generar las métricas de comparación de precios.
 
 Se diseñó el siguiente modelo:
+![image](https://github.com/demonory/PAAD_G17/assets/129700342/9e87d5b7-dae7-4eee-b600-3418d3d4dec7)
 
